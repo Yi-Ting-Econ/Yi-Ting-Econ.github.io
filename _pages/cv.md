@@ -11,54 +11,81 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **University of Wisconsin–Madison**  
+  Ph.D. in Economics & Ph.D. in Real Estate, *Expected 2028*
 
-Work experience
+* **National Taiwan University**  
+  M.A. in Economics, 2023  
+
+* **National Taiwan University**  
+  B.B.A. in Finance, 2019  
+
+* **University of Tsukuba**  
+  Exchange Student, 2018–2019  
+
+
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Industrial Organization  
+* Public Economics  
+* Labor Economics  
+* Real Estate  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Lin, Ming-Jen, Wang, Yi-Ting, and Wu, Sung-Ju  
+  **“Firm and Labor Adjustments to FDI Liberalization”**, *Journal of International Economics*, forthcoming  
+
+* Chu, C. Y. Cyrus and Wang, Yi-Ting  
+  **“Gini coefficient versus top income shares – Pattern change differences”**, *Economics Letters*, 201 (2021)  
+
+* Chu, C. Y. Cyrus, Hsu, Po-Hsuan, and Wang, Yi-Ting  
+  **“The gender gap in the ownership of promising land”**, *Proceedings of the National Academy of Sciences (PNAS)*, 2023  
+
+
+Working Papers
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Wang, Yi-Ting  
+  **“Who Gains from Easier Credit: Price Capitalization and Buyer Sorting in Housing Markets”**
+
+* Wang, Yi-Ting  
+  **“From Mom-and-Pop to Institutions: The Impact of Demographic Demand Shifts in Student Housing”**
+
+
+Research Experience
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Research Assistant to **Lu Han**  
+  University of Wisconsin–Madison (Spring 2026)
+
+* Research Assistant to **Dayin Zhang**  
+  University of Wisconsin–Madison (Summer 2025)
+
+* Research Assistant to **Abdullah Yavas**  
+  University of Wisconsin–Madison (Spring 2025)
+
+* Research Assistant to **C.Y. Cyrus Chu**  
+  Academia Sinica (2019–2021)
+
+
+Teaching Experience
 ======
-* Currently signed in to 43 different slack teams
+* Teaching Assistant, **Principles of Macroeconomics (Econ 102)**  
+  University of Wisconsin–Madison (Fall 2025)
+
+* Teaching Assistant, **Real Estate Finance**  
+  University of Wisconsin–Madison (Fall 2024)
+
+
+Honors & Awards
+======
+* Government Scholarships for Study Abroad (GSSA), Taiwan (2026)  
+* Academia Sinica Scholarship Student (2021–2023)  
+* JASSO Scholarship (2018–2019)  
+* Presidential Recognition Award (Top 5%), National Taiwan University (2015–2017)
+
+
+Languages & Skills
+======
+* **Languages:** Mandarin (Native), English (Fluent), Japanese (Fluent), Spanish (Basic)  
+* **Programming:** Python, R, Julia, Stata, LaTeX  
