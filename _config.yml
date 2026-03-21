@@ -24,7 +24,7 @@ repository               : "Yi-Ting-Econ/Yi-Ting-Econ.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+#  name             : "Your Sidebar Name"
  # pronouns         : # example: "she/her"  
  # bio              : "Short biography for the left-hand sidebar"
  # location         : #"Earth"
@@ -39,7 +39,7 @@ author:
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
+#  semantic         : # URL
   ssrn             : # URL
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  researchgate     : # URL
