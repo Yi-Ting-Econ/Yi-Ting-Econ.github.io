@@ -23,14 +23,14 @@ repository               : "Yi-Ting-Econ/Yi-Ting-Econ.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : #"Earth"
+ # pronouns         : # example: "she/her"  
+ # bio              : "Short biography for the left-hand sidebar"
+ # location         : #"Earth"
   employer         : "University of Wisconsin–Madison"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wang3342@wisc.edu" 
 
   # Academic websites
   academia         : # URL
@@ -41,10 +41,10 @@ author:
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  researchgate     : # URL
+#  scopus           : # URL
+#  zotero           : # URL
 
 
   # Repositories and software development
@@ -137,20 +137,20 @@ yandex_site_verification :
 
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+#twitter:
+ # username               : &twitter
+#facebook:
+ # username               :
+  #app_id                 :
+  #publisher              :
+#og_image                 :  # Social media default site image
+#og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+#social:
+ # type                   : # Person or Organization (defaults to Person)
+  #name                   : # If the user or organization name differs from the site's name
+  #links: # An array of links to social media profiles
 
 
 # Analytics
