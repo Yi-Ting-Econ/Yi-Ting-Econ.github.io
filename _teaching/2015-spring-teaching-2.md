@@ -1,14 +1,12 @@
 ---
 title: "ECON 102 — Principles of Macroeconomics"
 collection: teaching
-#type: ""
+type: "Teaching Assistant"
 #permalink: /teaching/2015-spring-teaching-1
 venue: "University of Wisconsin Madison, Department of Economics"
 date: 2025-09-01
 #location: "City, Country"
 ---
-
-**ECON 102 — Principles of Macroeconomics**
 *Textbook: N. Gregory Mankiw, Principles of Economics*
 
 - **Macroeconomic measurement**
