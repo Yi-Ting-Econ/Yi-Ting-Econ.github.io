@@ -8,8 +8,6 @@ date: 2024-09-01
 #location: "City, Country"
 ---
 
-**REAL EST 410 — Real Estate Finance**
-
 - **Financial foundations**
   - Time value of money (discounting, compounding, annuities)  
   - Application of financial concepts to real estate assets  
