@@ -15,6 +15,6 @@ My current research studies:
 - how changes in borrowing constraints affect potential buyers’ housing and financing choices;  
 - how the entry of large landlords shapes equilibrium property attributes and prices in rental markets.
 
-Before coming to UW–Madison, I majored in Finance for my undergraduate studies and obtained a Master's degree in Economics from **National Taiwan University**. 
+My publications are also available on [my Google Scholar profile](https://scholar.google.com/citations?user=bfEJpbAAAAAJ&hl=en).
 
 
