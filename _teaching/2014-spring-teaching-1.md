@@ -1,13 +1,12 @@
 ---
 title: "REAL EST 410 — Real Estate Finance"
 collection: teaching
-type: "Undergraduate course"
+#type: "Undergraduate course"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "University of Wisconsin–Madison, Department of Economics"
 #date: 2014-01-01
 #location: "City, Country"
 ---
-### Courses
 
 **REAL EST 410 — Real Estate Finance**
 
