@@ -28,7 +28,7 @@ author:
  # pronouns         : # example: "she/her"  
  # bio              : "Short biography for the left-hand sidebar"
  # location         : #"Earth"
-  employer         : "University of Wisconsin–Madison"
+ # employer         : "University of Wisconsin–Madison"
   uri              : # URL
   email            : "wang3342@wisc.edu" 
 
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/Yi-Ting-Econ"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
