@@ -15,6 +15,7 @@ My current research studies:
 - how changes in borrowing constraints affect potential buyers’ housing and financing choices;  
 - how the entry of large landlords shapes equilibrium property attributes and prices in rental markets.
 
-My publications are also available on [my Google Scholar profile](https://scholar.google.com/citations?user=bfEJpbAAAAAJ&hl=en).
+My CV can be downloaded [here](https://github.com/Yi-Ting-Econ/Yi-Ting-Econ.github.io/tree/master/files).
+
 
 
