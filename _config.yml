@@ -23,7 +23,7 @@ repository               : "Yi-Ting-Econ/Yi-Ting-Econ.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/image/profile.JPG"
+  avatar           : "profile.JPG"
   uri              :
   email            : "wang3342@wisc.edu"
   googlescholar    : "https://scholar.google.com/citations?user=bfEJpbAAAAAJ&hl=en"
