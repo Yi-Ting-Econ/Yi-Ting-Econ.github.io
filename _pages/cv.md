@@ -35,7 +35,7 @@ Research Interests
 Publications
 ======
 * Lin, Ming-Jen, Wang, Yi-Ting, and Wu, Sung-Ju  
-  **“Firm and Labor Adjustments to FDI Liberalization”**, *Journal of International Economics *(2026): 104227 
+  **“Firm and Labor Adjustments to FDI Liberalization”**, *Journal of International Economics*, 104227 (2026)
 
 * Chu, C. Y. Cyrus and Wang, Yi-Ting  
   **“Gini coefficient versus top income shares – Pattern change differences”**, *Economics Letters*, 201 (2021)  
