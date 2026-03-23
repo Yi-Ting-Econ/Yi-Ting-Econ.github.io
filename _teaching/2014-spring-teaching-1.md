@@ -1,5 +1,5 @@
 ---
-title: "REAL EST 410 — Real Estate Finance"
+title: "REAL EST 410/710 — Real Estate Finance"
 collection: teaching
 type: "Teaching Assistant"
 #permalink: /teaching/2014-spring-teaching-1
