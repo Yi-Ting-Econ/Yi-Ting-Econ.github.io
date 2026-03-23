@@ -4,7 +4,7 @@ collection: teaching
 #type: ""
 #permalink: /teaching/2015-spring-teaching-1
 venue: "University of Wisconsin Madison, Department of Economics"
-date: Fall 2025
+date: 2025-09-01
 #location: "City, Country"
 ---
 
