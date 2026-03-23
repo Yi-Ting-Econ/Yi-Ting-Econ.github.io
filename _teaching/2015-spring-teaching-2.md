@@ -22,7 +22,7 @@ date: 2025-09-01
     - Role of financial markets in allocating capital  
     - Effects of government deficits and policies on interest rates  
 
-- **Money and the monetary system** 
+- [**Money and the monetary system**](https://github.com/Yi-Ting-Econ/Yi-Ting-Econ.github.io/blob/master/files/teaching/Handout_money_and_bank_intro.pdf)
   - Functions of money and the structure of the banking system  
   - Role of the Federal Reserve and tools of monetary policy  
   - Money creation, reserves, and the money multiplier  
